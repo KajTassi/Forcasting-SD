@@ -46,6 +46,12 @@ function Menu() {
               &nbsp;New Table
             </Link>
           </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/testing">
+              <span className="oi oi-magnifying-glass" />
+              &nbsp;New Home
+            </Link>
+          </li>
         </ul>
         <div className="text-center d-none d-md-inline">
           <button
