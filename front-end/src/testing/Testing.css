@@ -12,6 +12,16 @@ body {
     font-family: "Open Sans", sans-serif;
     color: #444444;
   }
+
+.container {
+   background-color:	black;
+   border-style: solid;
+}
+
+top {
+  background-color:	#5F9EA0;
+   border-style: solid;
+}
   
   a {
     color: #ffc451;
